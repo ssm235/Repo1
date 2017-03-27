@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is A2BC-9BCF
-
- Directory of C:\Users\Neeraj Jaswal\Desktop\MyGITProject
-
-27-03-2017  13:19    <DIR>          .
-27-03-2017  13:19    <DIR>          ..
-27-03-2017  13:19                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  94,772,240,384 bytes free
+ Hello ...changed
